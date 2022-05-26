@@ -1,4 +1,47 @@
+# Piiquante #
 
+C'est projet est destiné à construire une API sécurisée pour une application web de critique d'avis gastronomique.
+
+
+
+
+
+## 🛠 Skills
+Node.js - Express - MongoDB
+
+
+## Installation
+
+Clonez le repository
+
+* Backend
+
+Depuis le répertoire "backend" du projet, exécutez les commandes suivantes
+
+```bash
+  npm install
+```  
+et  
+```bash
+  nodemon server
+```
+
+Ceci lancera un serveur node.
+
+* Frontend 
+
+Depuis le répertoire "frontend" du projet, exécutez les commandes suivantes :  
+
+```bash
+  npm install
+```  
+et  
+```bash
+  npm start
+```  
+
+Une fenêtre s'ouvrira instantannément et vous serez connecté à l'application.
+    
 ## __Spécifications de l'API__
 
 
